@@ -2,7 +2,15 @@
 
 This is the top1 solution in task 2 of the NeurIPS 2020 Education Challenge
 
-requirements: Linux, Python 3.7, tensorflow 2.3.0, Scikit-learn 0.23.2
+requirements: 
+
+Linux, 
+
+Python 3.7, 
+
+tensorflow 2.3.0, 
+
+Scikit-learn 0.23.2
 
 
 Firstly, download the data from the competiton website, then run following code in order:
