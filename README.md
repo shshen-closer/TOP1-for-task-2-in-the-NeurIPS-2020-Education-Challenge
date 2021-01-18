@@ -24,4 +24,6 @@ model training: python train.py kfold batch_size
 
 model testing: python test.py kfold model_name
 
+The model architecture is below:
 
+![image](https://github.com/shshen-closer/TOP1-for-task-2-in-the-NeurIPS-2020-Education-Challenge/blob/main/OCD_framework.png)
