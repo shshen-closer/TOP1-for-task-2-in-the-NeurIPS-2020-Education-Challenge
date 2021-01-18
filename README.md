@@ -8,7 +8,7 @@ Firstly, download the data from the competiton website, then run following code 
 
 question_meata_change.py: reindex the knowledge tags (knowledge concepts)
 
-answer_meta_change.py: change time to the form of continuous integers timestamp.
+answer_meta_change.py: change time to the form of continuous integers timestamp
 
 task_12_change.py: add two new columns, timestamp and quizid, to the traning data
 
