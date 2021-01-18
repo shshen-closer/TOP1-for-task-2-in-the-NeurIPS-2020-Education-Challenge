@@ -2,6 +2,8 @@
 
 This is the top1 solution in task 2 of the NeurIPS 2020 Education Challenge
 
+Firstly, download the data from the competiton website, then run following code in order:
+
 1. data preprocess
 
 question_meata_change.py: reindex the knowledge tags (knowledge concepts)
