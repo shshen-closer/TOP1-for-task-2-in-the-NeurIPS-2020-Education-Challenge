@@ -11,12 +11,15 @@ answer_meta_change.py: change time to the form of continuous integers timestamp.
 task_12_change.py: add two new columns, timestamp and quizid, to the traning data
 
 2. generate data
+
 task2_data_quiz.py: generate the data for traning and testing. The answered records are sorted by quizid and timestamp, sequence length is 10
 
 data_split_task2.py: split 10-fold traing data
 
 3. ocd_model
+
 model training: python train.py kfold batch_size
+
 model testing: python test.py kfold model_name
 
 
